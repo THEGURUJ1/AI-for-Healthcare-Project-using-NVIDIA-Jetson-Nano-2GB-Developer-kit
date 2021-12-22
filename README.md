@@ -14,6 +14,9 @@
 ### 1)CT-Scan : https://www.kaggle.com/mohamedhanyyy/chest-ctscan-images/download
 ### 2)X-Ray   : https://www.kaggle.com/jtiptj/chest-xray-pneumoniacovid19tuberculosis/download
 
+## Contact
+### For any query mail at:- abhishekbhandare92@gmail.com
+### LinkedIn:- https://www.linkedin.com/in/abhishek-bhandare-983223191/
 ## Accessories & Resources
 
 Jetson Developer Kit (2gb kit) <br />
