@@ -32,7 +32,7 @@ X-ray:-https://www.kaggle.com/jtiptj/chest-xray-pneumoniacovid19tuberculosis/dow
 
 ## Headings
 
-### [Building Project from scratch](#building-project-from-scratch)
+### [Building Project from scratch](https://github.com/THEGURUJ1/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit/blob/main/Building%20Project%20from%20scratch.md)
 ### [Running Pre-build Project](#running-pre-build-project)
 
 
