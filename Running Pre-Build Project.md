@@ -56,7 +56,7 @@ It may take time in First time running the docker command and ask for models tha
 ![image](https://user-images.githubusercontent.com/80514108/147123139-56cee00b-19bb-4757-aa5f-a4f8eda5bbf4.png)
  <br />
  
- 5] Now download the Project.rar file from here
+ 5] Now download the Project.rar file from here https://drive.google.com/file/d/1PgXG13vUNIofIlw480FAM_Y8ybLxdo66/view?usp=drive_web
  
  6]Extract the folder you'll get data & Models folder. Replace these folders at below location
  
