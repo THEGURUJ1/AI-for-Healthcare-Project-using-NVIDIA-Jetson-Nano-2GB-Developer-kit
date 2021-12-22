@@ -158,6 +158,7 @@ Models folder with <br />
 
 
 # Running Pre build Project
+## Steps=>
 ### First Four steps are same 
 1] Gathering all the Accessories:- <br />
 	We gathered all the Accessories mentioned above from the local market and collected 2GB Developer kit. <br /> 
