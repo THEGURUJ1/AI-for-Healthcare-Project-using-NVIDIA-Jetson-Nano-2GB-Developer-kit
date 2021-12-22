@@ -31,8 +31,8 @@ CT-Scan:-https://www.kaggle.com/mohamedhanyyy/chest-ctscan-images/download <br /
 X-ray:-https://www.kaggle.com/jtiptj/chest-xray-pneumoniacovid19tuberculosis/download <br />
 
 ## Headings
-### [Building Project from scratch](#-building-project-from-scratch)
-### [Running Pre-build Project](#-running-pre-build-project)
+### [Building Project from scratch](# building-project-from-scratch)
+### [Running Pre-build Project](# running-pre-build-project)
 
 # Building Project from scratch
 ## Steps=>
