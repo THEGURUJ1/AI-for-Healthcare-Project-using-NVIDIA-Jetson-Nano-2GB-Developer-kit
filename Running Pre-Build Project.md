@@ -56,9 +56,9 @@ It may take time in First time running the docker command and ask for models tha
 ![image](https://user-images.githubusercontent.com/80514108/147123139-56cee00b-19bb-4757-aa5f-a4f8eda5bbf4.png)
  <br />
  
- 5] Now download the Data & Models folders from this Repository
+ 5] Now download the Project.rar file from here
  
- 6]Replace these folders at below location
+ 6]Extract the folder you'll get data & Models folder. Replace these folders at below location
  
  >Jetson-inference/python/training/classification/
  
