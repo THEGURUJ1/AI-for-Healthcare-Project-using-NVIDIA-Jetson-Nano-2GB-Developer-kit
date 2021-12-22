@@ -33,15 +33,15 @@ Datasets: <br />
 CT-Scan:-https://www.kaggle.com/mohamedhanyyy/chest-ctscan-images/download <br />
 X-ray:-https://www.kaggle.com/jtiptj/chest-xray-pneumoniacovid19tuberculosis/download <br />
 
-## Headings
+# Headings
 
-### [Building Project from scratch](https://github.com/THEGURUJ1/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit/blob/main/Building%20Project%20from%20scratch.md)
-### [Running Pre-build Project](https://github.com/THEGURUJ1/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit/blob/main/Running%20Pre-Build%20Project.md)
+# [Building Project from scratch](https://github.com/THEGURUJ1/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit/blob/main/Building%20Project%20from%20scratch.md)
+# [Running Pre-build Project](https://github.com/THEGURUJ1/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit/blob/main/Running%20Pre-Build%20Project.md)
 
  ## Model Accuracy
- ###### ![Untitled design (1)](https://user-images.githubusercontent.com/80514108/147124505-ba8e6359-cf02-48a2-9fb4-5beb4f25f280.png)
-  <br />
-  ###### ![Untitled design](https://user-images.githubusercontent.com/80514108/147124597-2d6ab1a3-60a0-475f-ab55-248bd303fc52.png)
+ ![Untitled design (1)](https://user-images.githubusercontent.com/80514108/147124505-ba8e6359-cf02-48a2-9fb4-5beb4f25f280.png)
+  <br /> <br /> <br />
+  ![Untitled design](https://user-images.githubusercontent.com/80514108/147124597-2d6ab1a3-60a0-475f-ab55-248bd303fc52.png)
 
    <br />
  
