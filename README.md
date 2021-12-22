@@ -156,7 +156,7 @@ Models folder with <br />
 ![image](https://user-images.githubusercontent.com/80514108/147124823-dbde53e9-de3a-4494-a845-8241f6f6f005.png)
 
 
-# Running Pre-build Project
+# Running Pre build Project
 ### First Four steps are same 
 1] Gathering all the Accessories:- <br />
 	We gathered all the Accessories mentioned above from the local market and collected 2GB Developer kit. <br /> 
