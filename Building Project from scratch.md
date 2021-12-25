@@ -1,4 +1,5 @@
 # Building Project from scratch
+## [Youtube Video](https://youtu.be/_R26RNfaokU)
 ## Steps=>
 1] Gathering all the Accessories:- <br />
 	We gathered all the Accessories mentioned above from the local market and collected 2GB Developer kit. <br /> 
